@@ -8,7 +8,7 @@
 
 ### 🙋‍♀️ About Me
 
-- 🎓 3rd Year **Electronics & Computer Science Engineering** student at **Vidyalankar Institute of Technology, Mumbai** (CGPA: 8.45)
+- 🎓**Electronics & Computer Science Engineering** student at **Vidyalankar Institute of Technology, Mumbai** (CGPA: 8.45)
 - 🔬 Undergraduate Researcher — working on **COTS (Crown of Thorns Starfish) Detection** using YOLOv8/v11 with attention mechanisms (CBAM, SimAM, BiFormer) — targeting Q1 Elsevier journal (*EAAI*)
 - 🤖 Passionate about **AI/ML**, **Computer Vision**, and building real-world intelligent systems
 - 🌊 Exploring underwater object detection, image enhancement pipelines, and deep learning architectures
